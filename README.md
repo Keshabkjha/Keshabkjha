@@ -1,13 +1,13 @@
 ### Hi there 👋 
-
-###<!--
+###
+<!--
 **Keshabkjha/Keshabkjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am interested in internship and collaborating on projects 
 Here are some ideas to get you started:
-
+I like coding and watching Wrestling shows
 - 🔭 I’m currently a Computer science and Engineering student at Noida Institute of Engineering and Technology, Greater Noida
 - 🌱 I’m currently learning :Data structure and Algorithm
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help: on projects
 - 💬 Ask me about: anything you want
 - 📫 How to reach me: You can reach me through https://linktr.ee/Keshabkjha
