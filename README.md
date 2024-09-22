@@ -67,3 +67,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keshabkjha&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshabkjha&theme=github_dark" alt="Keshabkjha's GitHub Stats"/>
+</div>
