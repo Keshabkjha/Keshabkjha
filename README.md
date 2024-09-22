@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](portfolio link)
 
 - 📝 I regularly write articles on [blog link](blog link)
 
