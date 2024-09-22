@@ -5,7 +5,7 @@
 ## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshabkjha" alt="keshabkjha" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
