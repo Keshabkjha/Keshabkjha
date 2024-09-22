@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio link)
+- 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on [blog link](https://medium.com/@keshabkjha)
 
 - 💬 Ask me about **python, Java, Web technologies, machine Learning**
 
@@ -52,6 +52,7 @@
 <a href="https://www.hackerearth.com/@keshabkjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@keshabkjha" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/keshabkjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshabkjha" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/keshabkjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="keshabkjha" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@keshabkjha/lists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@keshabkjha/lists" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
