@@ -5,7 +5,7 @@
 ## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
@@ -64,7 +64,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshabkjha&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=keshabkjha&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshabkjha&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 <div align="center">
