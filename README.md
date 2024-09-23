@@ -69,9 +69,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ![snake gif](https://github.com/Keshabkjha/keshabkjha/blob/output/github-contribution-grid-snake.svg)
