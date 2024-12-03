@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshab+Kumar..;Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
+
 ## 🏆 GitHub Trophies
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
