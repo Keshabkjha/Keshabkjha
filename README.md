@@ -4,7 +4,9 @@
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest)
 
-
+## 🏆 My Last Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
