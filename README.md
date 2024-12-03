@@ -1,5 +1,32 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshab+Kumar..;Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
+## 🏆 GitHub Trophies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
+
+
+<p align="left"> <a href="https://twitter.com/keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
+
+- 🔭 I’m currently working on [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
+
+- 🌱 I’m currently learning **Generative AI**
+
+- 👯 I’m looking to collaborate on [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
+
+- 🤝 I’m looking for help with [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
+
+- 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
+
+- 📝 I regularly write articles on [blog link](https://medium.com/@keshabkjha)
+
+- 💬 Ask me about **python, Java, Web technologies, machine Learning**
+
+- 📫 How to reach me **keshabkumarjha876@gmail.com**
+
+- 📄 Know about my experiences [resume link](resume link)
+
+- ⚡ Fun fact **I have experience in land surveying, which highlights my analytical skills and commitment to precision.**
 
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest)
@@ -32,35 +59,6 @@
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/0820da2f-e1c4-43a8-afef-6e5b513d706c "Python for Data Science and AI")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/d4782398-bbcc-4447-beb2-5e8f7914f992 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
-
-## 🏆 GitHub Trophies
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
-
-![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
-
-
-<p align="left"> <a href="https://twitter.com/keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
-
-- 🔭 I’m currently working on [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
-
-- 🤝 I’m looking for help with [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
-
-- 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
-
-- 📝 I regularly write articles on [blog link](https://medium.com/@keshabkjha)
-
-- 💬 Ask me about **python, Java, Web technologies, machine Learning**
-
-- 📫 How to reach me **keshabkumarjha876@gmail.com**
-
-- 📄 Know about my experiences [resume link](resume link)
-
-- ⚡ Fun fact **I have experience in land surveying, which highlights my analytical skills and commitment to precision.**
-
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
