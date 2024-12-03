@@ -6,6 +6,31 @@
 
 ## 🏆 View my verified badges
 <!--START_SECTION:badges-->
+[![Analyze Images with the Cloud Vision API Skill Badge](https://images.credly.com/size/110x110/images/bb8edfd1-9d69-48a3-bf81-3ab830caf393/image.png)](http://www.credly.com/badges/3629b518-6625-4b0c-a98a-7214d5b0fea4 "Analyze Images with the Cloud Vision API Skill Badge")
+[![Cloud Speech API: 3 Ways Skill Badge](https://images.credly.com/size/110x110/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png)](http://www.credly.com/badges/40e620ab-9056-46dc-ac6b-4bbeda547b70 "Cloud Speech API: 3 Ways Skill Badge")
+[![Networking Fundamentals on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/6edf3d92-7a1f-425f-aa2b-d17223df9cf7/image.png)](http://www.credly.com/badges/6c927cf4-23ce-49c4-9254-88a7e18835ef "Networking Fundamentals on Google Cloud Skill Badge")
+[![Monitoring in Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/5a9654e8-37e5-4043-8a94-eeb0f98a2a9c/image.png)](http://www.credly.com/badges/d33cda9b-ca0c-449b-9372-5ceff374ebe0 "Monitoring in Google Cloud Skill Badge")
+[![App Engine: 3 Ways Skill Badge](https://images.credly.com/size/110x110/images/0943ce78-1ef7-4ff4-8ad7-4b60f6de5e5f/image.png)](http://www.credly.com/badges/af7f7ca5-b08c-4109-8673-e27ca74d551a "App Engine: 3 Ways Skill Badge")
+[![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/110x110/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](http://www.credly.com/badges/9828716f-bb5f-4299-8cd4-b035da197a24 "Get Started with Google Workspace Tools Skill Badge")
+[![Get Started with Looker Skill Badge](https://images.credly.com/size/110x110/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png)](http://www.credly.com/badges/56ef129f-6453-4f9a-9de4-240074c5645b "Get Started with Looker Skill Badge")
+[![Get Started with Dataplex Skill Badge](https://images.credly.com/size/110x110/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png)](http://www.credly.com/badges/e732b0b5-26f0-4148-bcf8-1d5d9fb52d6c "Get Started with Dataplex Skill Badge")
+[![Cloud Functions: 3 Ways Skill Badge](https://images.credly.com/size/110x110/images/12ca3878-2560-4d84-a3a5-c317db9ca549/image.png)](http://www.credly.com/badges/81fd08e6-f8a5-4b92-8f85-b12d514430c3 "Cloud Functions: 3 Ways Skill Badge")
+[![Get Started with API Gateway Skill Badge](https://images.credly.com/size/110x110/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png)](http://www.credly.com/badges/7bb5a386-7870-4d64-b711-4a8bbbc87f19 "Get Started with API Gateway Skill Badge")
+[![Get Started with Cloud Storage Skill Badge](https://images.credly.com/size/110x110/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png)](http://www.credly.com/badges/31608e1b-67f7-4a0a-b76d-1051eb803db3 "Get Started with Cloud Storage Skill Badge")
+[![Prompt Design in Vertex AI Skill Badge](https://images.credly.com/size/110x110/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](http://www.credly.com/badges/e9e14df6-29ad-4cf5-bbfe-fab8161ad016 "Prompt Design in Vertex AI Skill Badge")
+[![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/110x110/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](http://www.credly.com/badges/ae06ee1a-f311-4c24-bf8e-731d549ee60a "The Basics of Google Cloud Compute Skill Badge")
+[![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/110x110/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](http://www.credly.com/badges/d7cde887-966c-4370-ba71-0af9f38cd2c4 "Develop GenAI Apps with Gemini and Streamlit Skill Badge")
+[![Get Started with Pub/Sub Skill Badge](https://images.credly.com/size/110x110/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png)](http://www.credly.com/badges/6894ce2b-5c99-4074-8f75-af0fa4e7cd5a "Get Started with Pub/Sub Skill Badge")
+[![Academic Process Mining Fundamentals](https://images.credly.com/size/110x110/images/0831dac1-0a49-448d-a786-57c72c984bd1/image.png)](http://www.credly.com/badges/29f9587e-5c27-4932-95a5-9e358dcdef1f "Academic Process Mining Fundamentals")
+[![Celonis Foundations](https://images.credly.com/size/110x110/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png)](http://www.credly.com/badges/71aad051-4a23-4382-b945-899c0a6496e6 "Celonis Foundations")
+[![Web Development Fundamentals](https://images.credly.com/size/110x110/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png)](http://www.credly.com/badges/99475d7b-5a77-48ce-b8ec-49425adc755c "Web Development Fundamentals")
+[![Fortinet Certified Associate Cybersecurity](https://images.credly.com/size/110x110/images/20082fc1-94af-4773-9df0-28856b566748/image.png)](http://www.credly.com/badges/893e0958-ea3c-46b1-acad-2c91f3deb988 "Fortinet Certified Associate Cybersecurity")
+[![Fortinet FortiGate 7.4 Operator](https://images.credly.com/size/110x110/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](http://www.credly.com/badges/bbf53dd2-7b14-4aef-aab5-7570eb297b5a "Fortinet FortiGate 7.4 Operator")
+[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/a7fca778-4547-4cb2-b970-acce6fe3c102 "Fortinet Certified Fundamentals Cybersecurity")
+[![Getting Started in Cybersecurity 2.0](https://images.credly.com/size/110x110/images/39641a02-c97f-40d0-8773-d3a475954e9e/image.png)](http://www.credly.com/badges/86b6c467-a75c-47c0-bde5-38a458e01478 "Getting Started in Cybersecurity 2.0")
+[![Introduction to the Threat Landscape 2.0](https://images.credly.com/size/110x110/images/083854d8-3a8f-465c-b414-19507f9703d9/image.png)](http://www.credly.com/badges/36e12e60-3528-4797-9673-39417f6500b1 "Introduction to the Threat Landscape 2.0")
+[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/0820da2f-e1c4-43a8-afef-6e5b513d706c "Python for Data Science and AI")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/d4782398-bbcc-4447-beb2-5e8f7914f992 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
 
 ## 🏆 GitHub Trophies
