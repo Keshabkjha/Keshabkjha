@@ -1,6 +1,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshab+Kumar..;Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
-    
+
+## 🏆 LeetCode Trophies
+
+![LeetCode](https://leetcode-badge-showcase.vercel.app/api?username=Keshabkjha&theme=dark&border=no-border&animated=true).
+
 ## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
 
