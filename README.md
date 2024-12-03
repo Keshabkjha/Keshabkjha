@@ -91,8 +91,15 @@
 
 ## 🏆 Competitive Programming Stats
 <p>
+<a href ="https://leetcode.com/keshabkjha/">
 <img height = "280em" src = "https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest">
+</a>
+<a href = "https://codeforces.com/profile/keshabkjha">
 <img height = "280em" src = "https://codeforces-readme-stats.vercel.app/api/card?username=keshabkjha&theme=dark">
+</a>
+<a href="https://www.geeksforgeeks.org/user/keshabkjha/">
+  <img height = "280em"src="https://gfgstatscard.vercel.app/keshabkjha" alt="GFG stats" />
+</a>
 </p>
 
 ## 📊 GitHub Stats:
