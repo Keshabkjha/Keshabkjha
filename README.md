@@ -3,8 +3,8 @@
 
 ## 🏆 LeetCode Trophies
 
-![LeetCode](https://leetcode-badge-showcase.vercel.app/api?username=Keshabkjha&theme=dark&border=no-border&animated=true).
-
+<img src = "https://leetcode-badge-showcase.vercel.app/api?username=Keshabkjha&theme=dark&border=no-border&animated=true" alt=" LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Keshabkjha&animated=true" alt="LeetCode Badges"/>
 ## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabkjha&label=Profile%20views&color=0e75b6&style=flat" alt="keshabkjha" /> </p>
 
