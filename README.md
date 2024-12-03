@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshab+Kumar..;Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
 
 ## 🏆 LeetCode Trophies
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&animated=true" alt="LeetCode Badges"/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest)
 
 <img src = "https://leetcode-badge-showcase.vercel.app/api?username=Keshabkjha&theme=dark&border=no-border&animated=true" alt=" LeetCode Badges"/>
 
