@@ -29,7 +29,10 @@
 - ⚡ Fun fact **I have experience in land surveying, which highlights my analytical skills and commitment to precision.**
 
 ## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest)
+<p>
+<img height = "280em" src = "https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest">
+<img height = "280em" src = "https://codeforces-readme-stats.vercel.app/api/card?username=keshabkjha?theme=dark">
+</p>
 
 ## 🏆 View my verified badges
 <!--START_SECTION:badges-->
