@@ -4,7 +4,7 @@
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keshabkjha?theme=dark&font=PT%20Serif&ext=contest)
 
-## 🏆 My Last Badges
+## 🏆 View my verified badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
