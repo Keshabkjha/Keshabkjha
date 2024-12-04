@@ -60,9 +60,7 @@
 <!--END_SECTION:badges-->
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
-
-[Level Up Your GitHub Profile: A Complete Guide to Stand Out and Shine](https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p)
-
+- [Level Up Your GitHub Profile: A Complete Guide to Stand Out and Shine](https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p)
 <!-- BLOG-POST-LIST:END -->
 
 
