@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
-- 🔭 I’m currently working on [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
+- 🔭 I’m currently working on [YOLO11](https://github.com/Keshabkjha/YOLO11)
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Cryptography**
 
-- 👯 I’m looking to collaborate on [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
+- 👯 I’m looking to collaborate on [SamvadHub](https://github.com/Keshabkjha/SamvadHub)
 
 - 🤝 I’m looking for help with [ProfsPortail](https://github.com/Keshabkjha/ProfsPortail)
 
