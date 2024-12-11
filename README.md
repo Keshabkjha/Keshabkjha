@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio website soon)
 
-- 📝 I regularly write articles on [blog link](https://medium.com/@keshabkjha)
+- 📝 I regularly write articles on [blog link](https://dev.to/keshabkjha)
 
 - 💬 Ask me about **python, Java, Web technologies, machine Learning**
 
