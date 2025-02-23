@@ -1,5 +1,6 @@
+# Hi 👋, I'm Keshab Kumar
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Keshab+Kumar..;Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
 
 ## 🏆 GitHub Trophies
 
