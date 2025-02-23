@@ -8,7 +8,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&no-frame=false&no-bg=true&margin-w=4)
 
 
-<p align="left"> <a href="https://twitter.com/keshabkjha" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/keshabkjha/" target="blank"><img src="https://img.shields.io/twitter/follow/keshabkjha?logo=twitter&style=for-the-badge" alt="keshabkjha" /></a> </p>
 
 - 🔭 I’m currently working on [YOLO11](https://github.com/Keshabkjha/YOLO11)
 
