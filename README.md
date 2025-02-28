@@ -59,6 +59,19 @@
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/0820da2f-e1c4-43a8-afef-6e5b513d706c "Python for Data Science and AI")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/d4782398-bbcc-4447-beb2-5e8f7914f992 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/2SBREN8DC4OS">
+  <img src="https://github.com/user-attachments/assets/f4c3f844-251b-4c71-bd14-46f5631a3b51" alt="Google CyberSecurity Specialization" width="110" height="110">
+</a>
+<a href="http://verify.skilljar.com/c/i7i44uutvgni">
+  <img src="https://github.com/user-attachments/assets/db89628c-4f1e-47c6-91df-6683f8be20ee" alt="Zscaler Zero Trust Associate(ZTCA)" width="110" height="110">
+</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/RG045EIQZULB">
+  <img src="https://github.com/user-attachments/assets/325aa5a4-b99a-4904-a7d4-2a744f282216" alt="Zscaler Zero Trust Associate(ZTCA)" width="110" height="110">
+</a>
+<a href = "https://github.com/Keshabkjha/Data-Analytics-Business-Intelligence--NCET-Training">
+<img src = "https://github.com/user-attachments/assets/534119da-1e42-46d6-bdea-b50d10106a14" alt = "NCET Data Analytics (Business Intelligence Training)" width = "110" height = "110">
+</a>
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
 - [Level Up Your GitHub Profile: A Complete Guide to Stand Out and Shine](https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p)
