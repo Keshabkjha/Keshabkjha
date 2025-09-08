@@ -79,6 +79,9 @@
 </a>
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 of learning Quantum Computing](https://dev.to/keshabkjha/day-1-of-learning-quantum-computing-36k)
+- [Day 1 of My Quantum Computing Journey: Diving Into Complex Numbers &amp; Linear Algebra](https://dev.to/keshabkjha/day-1-of-my-quantum-computing-journey-diving-into-complex-numbers-linear-algebra-189j)
+- [Day 1 of My Quantum Computing Journey](https://dev.to/keshabkjha/-59ld)
 - [Level Up Your GitHub Profile: A Complete Guide to Stand Out and Shine](https://dev.to/keshabkjha/level-up-your-github-profile-a-complete-guide-to-stand-out-and-shine-5f5p)
 <!-- BLOG-POST-LIST:END -->
 <h1 align="left">🤝 Connect with me</h1>
