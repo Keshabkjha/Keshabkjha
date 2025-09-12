@@ -79,11 +79,13 @@
 </a>
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
+
 - [Day 3 of My Quantum Computing Journey: When Physics Meets Computing Reality](https://dev.to/keshabkjha/day-3-of-my-quantum-computing-journey-when-physics-meets-computing-reality-13mn)
 - [Day 2 of My Quantum Computing Journey: Decoding Probability Theory &amp; Statistics](https://dev.to/keshabkjha/day-2-of-my-quantum-computing-journey-decoding-probability-theory-statistics-ekk)
 - [Day 1 of learning Quantum Computing](https://dev.to/keshabkjha/day-1-of-learning-quantum-computing-36k)
 - [Day 1 of My Quantum Computing Journey: Diving Into Complex Numbers &amp; Linear Algebra](https://dev.to/keshabkjha/day-1-of-my-quantum-computing-journey-diving-into-complex-numbers-linear-algebra-189j)
 - [Day 1 of My Quantum Computing Journey](https://dev.to/keshabkjha/-59ld)
+  
 <!-- BLOG-POST-LIST:END -->
 <h1 align="left">🤝 Connect with me</h1>
 <p align="left">
