@@ -79,11 +79,11 @@
 </a>
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 of My Quantum Computing Journey: Mastering the Language of Quantum Mechanics &amp; Career Insights](https://dev.to/keshabkjha/day-6-of-my-quantum-computing-journey-mastering-the-language-of-quantum-mechanics-career-insights-1e71)
 - [Day 5 of My Quantum Computing Journey: The Mathematical Architecture of Quantum Systems](https://dev.to/keshabkjha/day-5-of-my-quantum-computing-journey-the-mathematical-architecture-of-quantum-systems-3m3c)
 - [Day 4 of My Quantum Computing Journey: Building the Classical Foundation](https://dev.to/keshabkjha/day-4-of-my-quantum-computing-journey-building-the-classical-foundation-1hdg)
 - [Day 3 of My Quantum Computing Journey: When Physics Meets Computing Reality](https://dev.to/keshabkjha/day-3-of-my-quantum-computing-journey-when-physics-meets-computing-reality-13mn)
 - [Day 2 of My Quantum Computing Journey: Decoding Probability Theory &amp; Statistics](https://dev.to/keshabkjha/day-2-of-my-quantum-computing-journey-decoding-probability-theory-statistics-ekk)
-- [Day 1 of learning Quantum Computing](https://dev.to/keshabkjha/day-1-of-learning-quantum-computing-36k)
 <!-- BLOG-POST-LIST:END -->
 <h1 align="left">🤝 Connect with me</h1>
 <p align="left">
