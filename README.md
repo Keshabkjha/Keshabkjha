@@ -79,11 +79,11 @@
 </a>
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
+- [Day 8 of My Quantum Computing Journey: Visualizing the Quantum World](https://dev.to/keshabkjha/day-8-of-my-quantum-computing-journey-visualizing-the-quantum-world-3phb)
+- [Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming](https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808)
 - [Day 6 of My Quantum Computing Journey: Mastering the Language of Quantum Mechanics &amp; Career Insights](https://dev.to/keshabkjha/day-6-of-my-quantum-computing-journey-mastering-the-language-of-quantum-mechanics-career-insights-1e71)
 - [Day 5 of My Quantum Computing Journey: The Mathematical Architecture of Quantum Systems](https://dev.to/keshabkjha/day-5-of-my-quantum-computing-journey-the-mathematical-architecture-of-quantum-systems-3m3c)
 - [Day 4 of My Quantum Computing Journey: Building the Classical Foundation](https://dev.to/keshabkjha/day-4-of-my-quantum-computing-journey-building-the-classical-foundation-1hdg)
-- [Day 3 of My Quantum Computing Journey: When Physics Meets Computing Reality](https://dev.to/keshabkjha/day-3-of-my-quantum-computing-journey-when-physics-meets-computing-reality-13mn)
-- [Day 2 of My Quantum Computing Journey: Decoding Probability Theory &amp; Statistics](https://dev.to/keshabkjha/day-2-of-my-quantum-computing-journey-decoding-probability-theory-statistics-ekk)
 <!-- BLOG-POST-LIST:END -->
 <h1 align="left">🤝 Connect with me</h1>
 <p align="left">
