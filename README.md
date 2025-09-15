@@ -79,11 +79,11 @@
 </a>
 <h1 align="left">✍️Blogs posts</h1>
 <!-- BLOG-POST-LIST:START -->
+- [Day 11 of My Quantum Computing Journey: Einstein&#39;s Challenge and Quantum&#39;s Victory](https://dev.to/keshabkjha/day-11-of-my-quantum-computing-journey-einsteins-challenge-and-quantums-victory-5c6)
 - [Day 10 of My Quantum Computing Journey: Where Quantum Magic Really Happens](https://dev.to/keshabkjha/day-10-of-my-quantum-computing-journey-where-quantum-magic-really-happens-3en1)
 - [Day 9 of My Quantum Computing Journey: Mastering the ABCs of Quantum Algorithms](https://dev.to/keshabkjha/day-9-of-my-quantum-computing-journey-mastering-the-abcs-of-quantum-algorithms-2ak)
 - [Day 8 of My Quantum Computing Journey: Visualizing the Quantum World](https://dev.to/keshabkjha/day-8-of-my-quantum-computing-journey-visualizing-the-quantum-world-3phb)
 - [Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming](https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808)
-- [Day 6 of My Quantum Computing Journey: Mastering the Language of Quantum Mechanics &amp; Career Insights](https://dev.to/keshabkjha/day-6-of-my-quantum-computing-journey-mastering-the-language-of-quantum-mechanics-career-insights-1e71)
 <!-- BLOG-POST-LIST:END -->
 <h1 align="left">🤝 Connect with me</h1>
 <p align="left">
